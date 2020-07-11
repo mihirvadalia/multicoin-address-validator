@@ -436,8 +436,8 @@ var CURRENCIES = [{
 }, {
     name: 'ultranote',
     symbol: 'xuni',
-    addressTypes: { prod: [0x7ad4], testnet: [] },
-    iAddressTypes: { prod: [0x7ad4], testnet: [] },
+    addressTypes: { prod: [0x2de638], testnet: [] },
+    iAddressTypes: { prod: [0x2de638], testnet: [] },
     expectedLength: 98,
     expectedIntegratedLength: 186,
     validator: XMRValidator,
